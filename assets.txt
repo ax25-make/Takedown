@@ -1,0 +1,11 @@
+play.gif
+retry.gif
+end.gif
+next.gif
+rating.gif
+boss1.gif
+boss2.gif
+boss3.gif
+boss4.gif
+boss5.gif
+boss6.gif

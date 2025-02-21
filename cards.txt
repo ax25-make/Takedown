@@ -1,0 +1,10 @@
+video.gif 20
+think.gif 20
+code.gif 40
+search.gif 25
+read.gif 30
+ta.gif 75
+coffee.gif 99
+refine.gif 25
+code2x.gif 70
+sleep.gif 0
